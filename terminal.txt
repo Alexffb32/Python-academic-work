@@ -1,0 +1,19 @@
+Nome: Lara
+Idade: 17
+Genero: Feminino
+Turma: 1Pi
+
+Nome: Alexandre
+Idade: 16
+Genero: Masculino
+Turma: 2Pi
+
+Nome: Rodrigo
+Idade: 16
+Genero: Indefinido
+Turma: 2Pi
+
+Nome: Pedro
+Idade: 18
+Genero: Masculino
+Turma: 3Pi 
